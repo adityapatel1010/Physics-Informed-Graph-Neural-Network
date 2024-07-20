@@ -121,18 +121,15 @@ array(\[\[\[0.31905454, 0.3713607 \],
 -   **InputTimestamps : 101**
 
 -   **Outputs for train
-    > data**![](media/image4.gif){width="2.9843755468066493in"
-    > height="2.235913167104112in"}![](media/image9.gif){width="3.0729166666666665in"
-    > height="2.3078226159230097in"}
+    > ![](media/image4.gif){width="2.9843755468066493in" height="2.235913167104112in"}
+    > ![](media/image9.gif){width="3.0729166666666665in" height="2.3078226159230097in"}
 
 -   **Outputs for test data**
 
-![](media/image6.gif){width="3.1971489501312336in"
-height="2.394775809273841in"}![](media/image1.gif){width="3.077156605424322in"
-height="2.3020833333333335in"}
+![](media/image6.gif){width="3.1971489501312336in" height="2.394775809273841in"}
+![](media/image1.gif){width="3.077156605424322in" height="2.3020833333333335in"}
 
-![](media/image7.gif){width="2.8348884514435695in"
-height="1.7491863517060366in"}
+![](media/image7.gif){width="2.8348884514435695in" height="1.7491863517060366in"}
 
 **Other Models:**
 
@@ -147,8 +144,7 @@ height="1.7491863517060366in"}
 -   **TimeStamp : 6**
 
 -   **Outputs on train
-    > data**![](media/image5.gif){width="3.0504691601049867in"
-    > height="2.287852143482065in"}
+    > ![](media/image5.gif){width="3.0504691601049867in" height="2.287852143482065in"}
 
 **Model 2:**
 
@@ -162,8 +158,7 @@ height="1.7491863517060366in"}
 
 -   **Outputs on test data**
 
-![](media/image3.gif){width="3.0770734908136483in"
-height="2.2916666666666665in"}
+![](media/image3.gif){width="3.0770734908136483in" height="2.2916666666666665in"}
 
 **Model 3:**
 
@@ -179,8 +174,7 @@ height="2.2916666666666665in"}
 
 -   **Outputs on train data**
 
-> ![](media/image2.gif){width="3.1927088801399823in"
-> height="1.975906605424322in"}
+> ![](media/image2.gif){width="3.1927088801399823in" height="1.975906605424322in"}
 
 **Model 4:**
 
@@ -196,8 +190,7 @@ height="2.2916666666666665in"}
 
 -   **Outputs on train data**
 
-![](media/image8.gif){width="2.9791666666666665in"
-height="1.875in"}
+![](media/image8.gif){width="2.9791666666666665in" height="1.875in"}
 
 **Model 5:**
 
