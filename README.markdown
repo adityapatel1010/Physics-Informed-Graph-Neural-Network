@@ -121,8 +121,9 @@ array(\[\[\[0.31905454, 0.3713607 \],
 -   **InputTimestamps : 101**
 
 -   **Outputs for train**
-  ![](media/image4.gif)
-  ![](media/image9.gif)
+  
+ > ![](media/image4.gif)
+ > ![](media/image9.gif)
 
 -   **Outputs for test data**
 
@@ -143,7 +144,8 @@ array(\[\[\[0.31905454, 0.3713607 \],
 -   **TimeStamp : 6**
 
 -   **Outputs on train**
-![](media/image7.gif)
+  
+> ![](media/image7.gif)
 
 **Model 2:**
 
@@ -157,7 +159,7 @@ array(\[\[\[0.31905454, 0.3713607 \],
 
 -   **Outputs on test data**
 
-![](media/image5.gif)
+> ![](media/image5.gif)
 
 **Model 3:**
 
@@ -189,7 +191,7 @@ array(\[\[\[0.31905454, 0.3713607 \],
 
 -   **Outputs on train data**
 
-![](media/image2.gif)
+> ![](media/image2.gif)
 
 **Model 5:**
 
@@ -202,7 +204,8 @@ array(\[\[\[0.31905454, 0.3713607 \],
 -   **TimeStamp : 20**
 
 -   **Outputs on train data**
-    ![](media/image8.gif)
+  
+  >  ![](media/image8.gif)
 
 **LIMITATION**
 
