@@ -1,4 +1,4 @@
-[PHYSICS INFORMED NEURAL NETWORK]{.underline}
+PHYSICS INFORMED NEURAL NETWORK
 
 **Problem Statement:**
 
@@ -20,7 +20,7 @@ physical phenomena, ranging from fluid dynamics to structural mechanics.
 However, these simulations often pose computational challenges due to
 the intricate interactions between particles and the computational
 resources required to model them accurately. To address these
-challenges, this study introduces a novel approach to modeling particle
+challenges, this study introduces a novel approach to modelling particle
 interactions in fluid systems through physics and graph theory. By
 conceptualizing particles as individuals within a social network and
 their interactions as edges in a graph, the study proposes to leverage
@@ -29,7 +29,7 @@ efficiently. This approach not only offers the potential for improved
 computational efficiency but also provides insights into the underlying
 dynamics of particle interactions. By integrating Graph Neural Networks
 (GNNs) into particle-based simulations, our objective is to enhance the
-computational efficiency, precision, and interpretability of modeling
+computational efficiency, precision, and interpretability of modelling
 complex fluid dynamics.
 
 **Algorithm:**
@@ -94,27 +94,7 @@ complex fluid dynamics.
 array(\[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
 7,
 
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
-
-7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+7, 7, 7, 7, 7, 7, 7, 7, 7,... 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
 
 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7\])\>, \'key\':
 \<tf.Tensor: shape=(), dtype=int64, numpy=0\>}, {\'position\':
@@ -124,85 +104,7 @@ array(\[\[\[0.31905454, 0.3713607 \],
 
 \[0.3085667 , 0.37355483\],
 
-\[0.30817574, 0.36610675\],
-
 \...,
-
-\[0.22299156, 0.25341544\],
-
-\[0.23851307, 0.2672986 \],
-
-\[0.23324183, 0.2528134 \]\],
-
-\[\[0.31977576, 0.36432663\],
-
-\[0.3092879 , 0.36652076\],
-
-\[0.30889696, 0.35907274\],
-
-\...,
-
-\[0.22371301, 0.24638152\],
-
-\[0.23923452, 0.26026472\],
-
-\[0.23396328, 0.24577938\]\],
-
-\[\[0.32049683, 0.35723117\],
-
-\[0.31000912, 0.3594253 \],
-
-\[0.30961818, 0.35197723\],
-
-\...,
-
-\[0.22443447, 0.23928618\],
-
-\[0.23995598, 0.2531695 \],
-
-\[0.23468474, 0.23868404\]\],
-
-\...,
-
-\[\[0.43733385, 0.12565623\],
-
-\[0.40837383, 0.13561387\],
-
-\[0.41201392, 0.13075446\],
-
-\...,
-
-\[0.14487717, 0.111959 \],
-
-\[0.21901645, 0.10819446\],
-
-\[0.19366977, 0.10736067\]\],
-
-\[\[0.43733412, 0.12565576\],
-
-\[0.40837413, 0.13561401\],
-
-\[0.4120146 , 0.1307549 \],
-
-**\...,**
-
-\[0.14488024, 0.11195306\],
-
-\[0.21901573, 0.10819466\],
-
-\[0.1936699 , 0.10736021\]\],
-
-\[\[0.43733412, 0.12565626\],
-
-\[0.40837348, 0.1356142 \],
-
-\[0.41201422, 0.13075504\],
-
-\...,
-
-\[0.14488944, 0.1119483 \],
-
-\[0.21901718, 0.10819551\],
 
 \[0.1936751 , 0.10736296\]\]\], dtype=float32)\>})
 
