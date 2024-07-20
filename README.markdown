@@ -34,7 +34,7 @@ complex fluid dynamics.
 
 **Algorithm:**
 
-[Model Architecture]{.underline}
+Model Architecture
 
 1.  Building node_features and edge_features:
 
@@ -69,7 +69,7 @@ complex fluid dynamics.
 -   Final output is compared with an estimated acceleration using the
     > last time stamp position of the particles. Loss function is MSE.
 
-[MESSAGE PASSING]{.underline}
+MESSAGE PASSING
 
 > The Message Passing network uses the concept of multidimensional edge
 > feature(MP-GNN). Which uses the node_features of the target(x_j) and
@@ -110,7 +110,7 @@ array(\[\[\[0.31905454, 0.3713607 \],
 
 **RESULTS & DISCUSSION**
 
-**[Best Performing Model]{.underline}**
+**Best Performing Model**
 
 -   **Epochs : 106500**
 
@@ -121,22 +121,22 @@ array(\[\[\[0.31905454, 0.3713607 \],
 -   **InputTimestamps : 101**
 
 -   **Outputs for train
-    > data**![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image4.gif){width="2.9843755468066493in"
-    > height="2.235913167104112in"}![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image9.gif){width="3.0729166666666665in"
+    > data**![](media/image4.gif){width="2.9843755468066493in"
+    > height="2.235913167104112in"}![](media/image9.gif){width="3.0729166666666665in"
     > height="2.3078226159230097in"}
 
 -   **Outputs for test data**
 
-![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image6.gif){width="3.1971489501312336in"
-height="2.394775809273841in"}![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image1.gif){width="3.077156605424322in"
+![](media/image6.gif){width="3.1971489501312336in"
+height="2.394775809273841in"}![](media/image1.gif){width="3.077156605424322in"
 height="2.3020833333333335in"}
 
-![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image7.gif){width="2.8348884514435695in"
+![](media/image7.gif){width="2.8348884514435695in"
 height="1.7491863517060366in"}
 
 **Other Models:**
 
-**[Model 1:]{.underline}**
+**Model 1:**
 
 -   **Epochs : 128000**
 
@@ -147,10 +147,10 @@ height="1.7491863517060366in"}
 -   **TimeStamp : 6**
 
 -   **Outputs on train
-    > data**![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image5.gif){width="3.0504691601049867in"
+    > data**![](media/image5.gif){width="3.0504691601049867in"
     > height="2.287852143482065in"}
 
-**[Model 2:]{.underline}**
+**Model 2:**
 
 -   **Epochs : 62500**
 
@@ -162,10 +162,10 @@ height="1.7491863517060366in"}
 
 -   **Outputs on test data**
 
-![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image3.gif){width="3.0770734908136483in"
+![](media/image3.gif){width="3.0770734908136483in"
 height="2.2916666666666665in"}
 
-**[Model 3:]{.underline}**
+**Model 3:**
 
 -   **Epochs : 2000**
 
@@ -179,10 +179,10 @@ height="2.2916666666666665in"}
 
 -   **Outputs on train data**
 
-> ![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image2.gif){width="3.1927088801399823in"
+> ![](media/image2.gif){width="3.1927088801399823in"
 > height="1.975906605424322in"}
 
-**[Model 4:]{.underline}**
+**Model 4:**
 
 -   **Epochs : 10000**
 
@@ -196,10 +196,10 @@ height="2.2916666666666665in"}
 
 -   **Outputs on train data**
 
-![](vertopal_8b0a295952364ea282cd6e156eedadf6/media/image8.gif){width="2.9791666666666665in"
+![](media/image8.gif){width="2.9791666666666665in"
 height="1.875in"}
 
-**[Model 5:]{.underline}**
+**Model 5:**
 
 -   **Epochs : 6000**
 
